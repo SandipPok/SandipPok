@@ -54,6 +54,10 @@ Here are the technologies I work with and love:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandippok&theme=radical" alt="sandippok" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandippok&layout=donut&theme=radical" alt="Top Langs" />
+</p>
+
 ---
 
 > 💬 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House

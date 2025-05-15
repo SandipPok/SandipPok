@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandip Pokharel</h1>
-<h3 align="center">Software Developer | C# | React | Vue.js | Azure Cloud Enthusiast</h3>
+<h3 align="center">Software Developer | C# | React | Vue.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandippok&label=Profile%20views&color=0e75b6&style=flat" alt="sandippok" />
@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate **Software Developer** focused on building robust, scalable applications. With experience in both **frontend** and **backend** technologies, I specialize in creating modern web applications using **C#**, **React**, **Vue.js**, and **Azure** services. Always learning and exploring new tech to solve complex problems.
+I'm a **Software Developer** focused on building robust, scalable applications. With experience in both **frontend** and **backend** technologies, I specialize in creating modern web applications using **C#**, **React**, **Vue.js**, and **Azure** services. Always learning and exploring new tech to solve complex problems.
 
 🔧 I’m currently working on mastering **serverless architectures** with **Azure** and enhancing my skills in **TypeScript** and **Cloud Development**.
 
